@@ -1,4 +1,4 @@
-//test
+
 (function(window, location) {
     let bbCURL = new URL(window.location.href);
     let v1Param = bbCURL.searchParams.get("v1");
